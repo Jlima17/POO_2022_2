@@ -1,5 +1,7 @@
 
-A classe é usada como um modelo para declarar e criar objetos. Ela deve ser declarada apenas uma vez e não pode ser manipulada porque não está disponível na memória. O objeto é uma instância, ou um elemento, de uma classe. Ele é criado muitas vezes, conforme a necessidade e podem ser manupilados.
+A classe é usada como um modelo para declarar e criar objetos. Ela deve ser declarada apenas uma vez e não pode 
+ser manipulada porque não está disponível na memória. O objeto é uma instância, ou um elemento, de uma classe. 
+Ele é criado muitas vezes, conforme a necessidade e podem ser manupilados.
    Exemplos de classe: 
        * pessoa
        * animal 
