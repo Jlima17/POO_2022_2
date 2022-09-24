@@ -1,0 +1,4 @@
+
+ *Pesquise e, se encontrar, um exemplo onde o tipo any seria benéfico.
+ 
+   R = 	Any é um tipo especial, em Typescript, que pode ser usado sempre que se quiser evitar que um valor específico cause erros de type-check. Em um valor do tipo any, é possível acessar qualquer uma de suas propriedades(que também serão do tipo any), chamá-lo como função, atribuí-lo a valores de qualquer tipo, desde que não seja sintaticamente ilegal.

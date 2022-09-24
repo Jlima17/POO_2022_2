@@ -1,0 +1,5 @@
+
+ *Pesquise e exemplifique com um exemplo porque dizemos que a linguagem C,
+mesmo tendo tipagem estática, possui tipagem fraca.
+
+  R = Se um tipo de dado pode se passar por outro, a linguagem é fracamente tipada. É o caso da linguagem C que, embora possua tipagem estática, permite que um dado seja acessado/interpretado como se fosse outro. Por exemplo, é possível gravar um INT e ecessá-lo como se fosse um ponteiro, ou até mesmo um CHAR, que poderá ser tanto um caractere quanto um número.

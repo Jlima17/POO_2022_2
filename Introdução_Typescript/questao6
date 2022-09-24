@@ -1,0 +1,5 @@
+
+ * Poderíamos dizer que a tipagem do TypeScript é fraca por uma variável do tipo
+number aceitar tanto inteiros como ponto flutuante?
+
+   R = Não, pois embora o tipo number identifique tanto números inteiros quanto números de ponto flutuante, só é possível alternar entre um e outro de maneira manual. Logo a escolha entre os mesmos deverá ser feita pelo próprio dev, e não pela linguagem.
